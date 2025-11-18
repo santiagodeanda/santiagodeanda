@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Santiago de Anda Gómez 👋
 
-<!--
-**santiagodeanda/santiagodeanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologías e Intereses
+- Conozco el lenguaje de programación **C**.
+- Actualmente busco aprender más lenguajes como **Python**.
+- Me interesa seguir desarrollando habilidades en programación y tecnologías relacionadas con la computación.
 
-Here are some ideas to get you started:
+## 🎯 Metas Académicas y Profesionales
+- Terminar mi carrera en **Ingeniería en Computación**.
+- Ser contratado por una **gran empresa de tecnología** y continuar creciendo profesionalmente en el campo del desarrollo y la innovación tecnológica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Cómo contactarme
+Puedes escribirme directamente a mi correo:  
+📧 **santiagodeanda10@gmail.com**
+
+
